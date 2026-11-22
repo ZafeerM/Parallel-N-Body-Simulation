@@ -1,0 +1,7 @@
+node_modules/
+client/dist/
+server/results/
+server/engine/*.exe
+server/engine/*.o
+server/engine/nbody
+.claude/
